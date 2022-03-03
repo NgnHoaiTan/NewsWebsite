@@ -1,0 +1,249 @@
+[{
+  "_id": {
+    "$oid": "61a99bb52009ea869cb4dcf0"
+  },
+  "TotalView": 11,
+  "IdNews": {
+    "$oid": "61a0e3970e00e0a449b7b380"
+  }
+},{
+  "_id": {
+    "$oid": "61a99e56bc22a564810ea1a0"
+  },
+  "TotalView": 4,
+  "IdNews": {
+    "$oid": "61a0e4790e00e0a449b7b381"
+  }
+},{
+  "_id": {
+    "$oid": "61a99e66bc22a564810ea1a1"
+  },
+  "TotalView": 1,
+  "IdNews": {
+    "$oid": "61a0e4d30e00e0a449b7b382"
+  }
+},{
+  "_id": {
+    "$oid": "61a99e74bc22a564810ea1a2"
+  },
+  "TotalView": 3,
+  "IdNews": {
+    "$oid": "61a0e5030e00e0a449b7b383"
+  }
+},{
+  "_id": {
+    "$oid": "61a99e81bc22a564810ea1a3"
+  },
+  "TotalView": 0,
+  "IdNews": {
+    "$oid": "61a0e5c10e00e0a449b7b384"
+  }
+},{
+  "_id": {
+    "$oid": "61a99e8ebc22a564810ea1a4"
+  },
+  "TotalView": 1,
+  "IdNews": {
+    "$oid": "61a0e5f80e00e0a449b7b385"
+  }
+},{
+  "_id": {
+    "$oid": "61a99e9bbc22a564810ea1a5"
+  },
+  "TotalView": 0,
+  "IdNews": {
+    "$oid": "61a0e6290e00e0a449b7b386"
+  }
+},{
+  "_id": {
+    "$oid": "61a99eacbc22a564810ea1a6"
+  },
+  "TotalView": 0,
+  "IdNews": {
+    "$oid": "61a0e65f0e00e0a449b7b387"
+  }
+},{
+  "_id": {
+    "$oid": "61a99ec7bc22a564810ea1a7"
+  },
+  "TotalView": 0,
+  "IdNews": {
+    "$oid": "61a0e6bd0e00e0a449b7b388"
+  }
+},{
+  "_id": {
+    "$oid": "61a99ed6bc22a564810ea1a8"
+  },
+  "TotalView": 0,
+  "IdNews": {
+    "$oid": "617f673c571c5da7445cea2b"
+  }
+},{
+  "_id": {
+    "$oid": "61a99ee4bc22a564810ea1a9"
+  },
+  "TotalView": 0,
+  "IdNews": {
+    "$oid": "617eb2c3ed48b7e0f2763b37"
+  }
+},{
+  "_id": {
+    "$oid": "61a99ef1bc22a564810ea1aa"
+  },
+  "TotalView": 1,
+  "IdNews": {
+    "$oid": "617eb32eed48b7e0f2763b38"
+  }
+},{
+  "_id": {
+    "$oid": "61a99efebc22a564810ea1ab"
+  },
+  "TotalView": 0,
+  "IdNews": {
+    "$oid": "617eb381ed48b7e0f2763b39"
+  }
+},{
+  "_id": {
+    "$oid": "61a99f0bbc22a564810ea1ac"
+  },
+  "TotalView": 1,
+  "IdNews": {
+    "$oid": "617eb3aced48b7e0f2763b3a"
+  }
+},{
+  "_id": {
+    "$oid": "61ac6d41c26e0ceb8a0eca3f"
+  },
+  "TotalView": 0,
+  "IdNews": {
+    "$oid": "61ac46d3a57847b1da752e6e"
+  }
+},{
+  "_id": {
+    "$oid": "61ac6e12c26e0ceb8a0eca40"
+  },
+  "TotalView": 8,
+  "IdNews": {
+    "$oid": "61ac577ac26e0ceb8a0eca3d"
+  }
+},{
+  "_id": {
+    "$oid": "61ac6e2bc26e0ceb8a0eca41"
+  },
+  "TotalView": 4,
+  "IdNews": {
+    "$oid": "61ac56fdc26e0ceb8a0eca3c"
+  }
+},{
+  "_id": {
+    "$oid": "61ac6e42c26e0ceb8a0eca42"
+  },
+  "TotalView": 2,
+  "IdNews": {
+    "$oid": "61ac56b5c26e0ceb8a0eca3b"
+  }
+},{
+  "_id": {
+    "$oid": "61ac6ecbc26e0ceb8a0eca44"
+  },
+  "TotalView": 1,
+  "IdNews": {
+    "$oid": "61aba4f9ff251671f5512598"
+  }
+},{
+  "_id": {
+    "$oid": "61ac7065c26e0ceb8a0eca45"
+  },
+  "TotalView": 2,
+  "IdNews": {
+    "$oid": "61aba592ff251671f5512599"
+  }
+},{
+  "_id": {
+    "$oid": "61ac7093c26e0ceb8a0eca46"
+  },
+  "TotalView": 0,
+  "IdNews": {
+    "$oid": "61ac4600a57847b1da752e6a"
+  }
+},{
+  "_id": {
+    "$oid": "61ac70a1c26e0ceb8a0eca47"
+  },
+  "TotalView": 1,
+  "IdNews": {
+    "$oid": "61ac46a8a57847b1da752e6c"
+  }
+},{
+  "_id": {
+    "$oid": "61ac70b2c26e0ceb8a0eca48"
+  },
+  "TotalView": 0,
+  "IdNews": {
+    "$oid": "61ac4fcfa57847b1da752e7a"
+  }
+},{
+  "_id": {
+    "$oid": "61ac70ccc26e0ceb8a0eca49"
+  },
+  "TotalView": 1,
+  "IdNews": {
+    "$oid": "61aba49cff251671f5512597"
+  }
+},{
+  "_id": {
+    "$oid": "61ac70e4c26e0ceb8a0eca4a"
+  },
+  "TotalView": 0,
+  "IdNews": {
+    "$oid": "61ac226386095c9bfdc1c546"
+  }
+},{
+  "_id": {
+    "$oid": "61ac70f5c26e0ceb8a0eca4b"
+  },
+  "TotalView": 1,
+  "IdNews": {
+    "$oid": "61ac201d86095c9bfdc1c543"
+  }
+},{
+  "_id": {
+    "$oid": "61ac7105c26e0ceb8a0eca4c"
+  },
+  "TotalView": 0,
+  "IdNews": {
+    "$oid": "61ac1fc886095c9bfdc1c542"
+  }
+},{
+  "_id": {
+    "$oid": "61ac7113c26e0ceb8a0eca4d"
+  },
+  "TotalView": 0,
+  "IdNews": {
+    "$oid": "61ac182ba95abab96dc3448e"
+  }
+},{
+  "_id": {
+    "$oid": "61ac7129c26e0ceb8a0eca4e"
+  },
+  "TotalView": 0,
+  "IdNews": {
+    "$oid": "61ac15baa95abab96dc3448c"
+  }
+},{
+  "_id": {
+    "$oid": "61ac7137c26e0ceb8a0eca4f"
+  },
+  "TotalView": 0,
+  "IdNews": {
+    "$oid": "61ac1538a95abab96dc3448b"
+  }
+},{
+  "_id": {
+    "$oid": "61ad296a5b1a533caeb37b42"
+  },
+  "TotalView": 1,
+  "IdNews": {
+    "$oid": "61ac76d5c26e0ceb8a0eca51"
+  }
+}]

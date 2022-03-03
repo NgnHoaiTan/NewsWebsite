@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "6176c320c51337b469bcdc4a"
+  },
+  "Username": "hoaitan",
+  "Userpassword": "10102000",
+  "Fullname": "Nguyễn Hoài Tân",
+  "Dateofbirth": {
+    "$date": "2021-10-25T14:45:14.637Z"
+  },
+  "Role": "admin"
+},{
+  "_id": {
+    "$oid": "617ac0d6dd4bb1db7f376cb4"
+  },
+  "Username": "hoaitan1",
+  "Userpassword": "123456",
+  "Fullname": "Nguyễn Văn Hiếu",
+  "Dateofbirth": {
+    "$date": "2021-10-28T15:24:29.186Z"
+  },
+  "Role": "user"
+},{
+  "_id": {
+    "$oid": "61a476c1023d688a46da4052"
+  },
+  "Username": "admin1",
+  "Userpassword": "admin1",
+  "Fullname": "Nguyễn Hoài Tân",
+  "Dateofbirth": {
+    "$date": "2000-10-09T17:00:00Z"
+  },
+  "Role": "admin"
+},{
+  "_id": {
+    "$oid": "61a5e1799031265b662b5635"
+  },
+  "Username": "boss1",
+  "Userpassword": "boss1",
+  "Fullname": "Nguyễn Hoài Tân",
+  "Dateofbirth": {
+    "$date": "2021-11-10T08:31:03.574Z"
+  },
+  "Role": "boss"
+},{
+  "_id": {
+    "$oid": "61ab01f68827e71e30efa31c"
+  },
+  "Username": "123",
+  "Userpassword": "123",
+  "Fullname": "123",
+  "Dateofbirth": {
+    "$date": "2021-12-04T00:00:00Z"
+  },
+  "Role": "user"
+},{
+  "_id": {
+    "$oid": "61ab03ff8827e71e30efa31d"
+  },
+  "Username": "authorize",
+  "Userpassword": "authorize",
+  "Fullname": "test phân quyền",
+  "Dateofbirth": {
+    "$date": "2021-11-30T00:00:00Z"
+  },
+  "Role": "admin"
+}]

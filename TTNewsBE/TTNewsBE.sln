@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TTNewsBE", "TTNewsBE\TTNewsBE.csproj", "{752BD517-214B-4D10-8D13-124C988206F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{752BD517-214B-4D10-8D13-124C988206F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{752BD517-214B-4D10-8D13-124C988206F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{752BD517-214B-4D10-8D13-124C988206F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{752BD517-214B-4D10-8D13-124C988206F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACE2DEC6-CFDB-4C67-BA90-4777E7006516}
+	EndGlobalSection
+EndGlobal

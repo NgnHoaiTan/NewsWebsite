@@ -1,0 +1,229 @@
+[{
+  "_id": {
+    "$oid": "617b72e6476f2bc715e42411"
+  },
+  "Subtopicname": "Dịch bệnh",
+  "Topic": {
+    "_id": {
+      "$oid": "617956ab17201095040a33d1"
+    },
+    "Topicname": "Xã hội"
+  },
+  "Status": "approved"
+},{
+  "_id": {
+    "$oid": "617b72f0476f2bc715e42412"
+  },
+  "Subtopicname": "Phim ảnh",
+  "Topic": {
+    "_id": {
+      "$oid": "617956ec17201095040a33d4"
+    },
+    "Topicname": "Giải trí"
+  },
+  "Status": "approved"
+},{
+  "_id": {
+    "$oid": "617b72ff476f2bc715e42413"
+  },
+  "Subtopicname": "Món ngon đó đây",
+  "Topic": {
+    "_id": {
+      "$oid": "6179567517201095040a33d0"
+    },
+    "Topicname": "Du lịch & Ẩm thực"
+  },
+  "Status": "approved"
+},{
+  "_id": {
+    "$oid": "617b9acf476f2bc715e42414"
+  },
+  "Subtopicname": "Game",
+  "Topic": {
+    "_id": {
+      "$oid": "6179566717201095040a33cf"
+    },
+    "Topicname": "Công nghệ"
+  },
+  "Status": "approved"
+},{
+  "_id": {
+    "$oid": "617b9adc476f2bc715e42415"
+  },
+  "Subtopicname": "Internet",
+  "Topic": {
+    "_id": {
+      "$oid": "6179566717201095040a33cf"
+    },
+    "Topicname": "Công nghệ"
+  },
+  "Status": "approved"
+},{
+  "_id": {
+    "$oid": "617b9ae9476f2bc715e42416"
+  },
+  "Subtopicname": "Sao",
+  "Topic": {
+    "_id": {
+      "$oid": "617956ec17201095040a33d4"
+    },
+    "Topicname": "Giải trí"
+  },
+  "Status": "approved"
+},{
+  "_id": {
+    "$oid": "617b9afb476f2bc715e42417"
+  },
+  "Subtopicname": "Gym",
+  "Topic": {
+    "_id": {
+      "$oid": "617956c417201095040a33d3"
+    },
+    "Topicname": "Thể thao"
+  },
+  "Status": "approved"
+},{
+  "_id": {
+    "$oid": "617b9b0c476f2bc715e42418"
+  },
+  "Subtopicname": "Du học",
+  "Topic": {
+    "_id": {
+      "$oid": "617956b817201095040a33d2"
+    },
+    "Topicname": "Giáo dục"
+  },
+  "Status": "approved"
+},{
+  "_id": {
+    "$oid": "617b9c21476f2bc715e42419"
+  },
+  "Subtopicname": "Du lịch",
+  "Topic": {
+    "_id": {
+      "$oid": "6179567517201095040a33d0"
+    },
+    "Topicname": "Du lịch & Ẩm thực"
+  },
+  "Status": "approved"
+},{
+  "_id": {
+    "$oid": "617b9c2f476f2bc715e4241a"
+  },
+  "Subtopicname": "Giao thông",
+  "Topic": {
+    "_id": {
+      "$oid": "617956ab17201095040a33d1"
+    },
+    "Topicname": "Xã hội"
+  },
+  "Status": "approved"
+},{
+  "_id": {
+    "$oid": "617b9c36476f2bc715e4241b"
+  },
+  "Subtopicname": "Kinh tế",
+  "Topic": {
+    "_id": {
+      "$oid": "617956ab17201095040a33d1"
+    },
+    "Topicname": "Xã hội"
+  },
+  "Status": "approved"
+},{
+  "_id": {
+    "$oid": "617b9fce476f2bc715e4241c"
+  },
+  "Subtopicname": "Blockchain",
+  "Topic": {
+    "_id": {
+      "$oid": "6179566717201095040a33cf"
+    },
+    "Topicname": "Công nghệ"
+  },
+  "Status": "approved"
+},{
+  "_id": {
+    "$oid": "617b9fec476f2bc715e4241d"
+  },
+  "Subtopicname": "Công cuộc chống dịch",
+  "Topic": {
+    "_id": {
+      "$oid": "617956ab17201095040a33d1"
+    },
+    "Topicname": "Xã hội"
+  },
+  "Status": "approved"
+},{
+  "_id": {
+    "$oid": "617ba002476f2bc715e4241e"
+  },
+  "Subtopicname": "Tuyển sinh",
+  "Topic": {
+    "_id": {
+      "$oid": "617956b817201095040a33d2"
+    },
+    "Topicname": "Giáo dục"
+  },
+  "Status": "approved"
+},{
+  "_id": {
+    "$oid": "617ba017476f2bc715e4241f"
+  },
+  "Subtopicname": "Ngoại ngữ",
+  "Topic": {
+    "_id": {
+      "$oid": "617956b817201095040a33d2"
+    },
+    "Topicname": "Giáo dục"
+  },
+  "Status": "approved"
+},{
+  "_id": {
+    "$oid": "61ac1b4286095c9bfdc1c53b"
+  },
+  "Subtopicname": "Bóng đá",
+  "Topic": {
+    "_id": {
+      "$oid": "617956c417201095040a33d3"
+    },
+    "Topicname": "Thể thao"
+  },
+  "Status": "approved"
+},{
+  "_id": {
+    "$oid": "61ac1b6186095c9bfdc1c53c"
+  },
+  "Subtopicname": "Thời tranggg",
+  "Topic": {
+    "_id": {
+      "$oid": "617956ec17201095040a33d4"
+    },
+    "Topicname": "Giải trí"
+  },
+  "Status": "declined"
+},{
+  "_id": {
+    "$oid": "61ac214c86095c9bfdc1c545"
+  },
+  "Subtopicname": "Ẩm thực",
+  "Topic": {
+    "_id": {
+      "$oid": "6179567517201095040a33d0"
+    },
+    "Topicname": "Du lịch & Ẩm thực"
+  },
+  "Status": "declined"
+},{
+  "_id": {
+    "$oid": "61ac7646c26e0ceb8a0eca50"
+  },
+  "Subtopicname": "Internet 2",
+  "Topic": {
+    "_id": {
+      "$oid": "6179566717201095040a33cf"
+    },
+    "Topicname": "Công nghệ"
+  },
+  "Status": "approved"
+}]
